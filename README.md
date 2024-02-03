@@ -1,2 +1,2 @@
-# Finding Determinant in C
+# Finding The Determinant in C
 In class, we were learning about the process of finding a determinant of an NxN matrix, and how it required you to find the determinant of submatrices. One of my first thoughts was that the problem seemed recursive, and once I recognized that the determinant of a 1x1 matrix is the only element remaining, I had my recursive condition. Thus, this C program calculating the determinant of an NxN matrix. It's a bit of fun and you can fiddle around with different matrices to find edge cases. I wrote it in the ballpark of 15 minutes in Linear Algebra, so there are down to be bugs or optimizations.
